@@ -1,0 +1,28 @@
+{
+    "U_1": {
+        "user_id": "U_1",
+        "name": "Johnny Wright",
+        "pin": "5255",
+        "books_issued": []
+    },
+    "U_2": {
+        "user_id": "U_2",
+        "name": "Kohn Doe",
+        "pin": "6955",
+        "books_issued": []
+    },
+    "U_3": {
+        "user_id": "U_3",
+        "name": "Chloe Dehhly",
+        "pin": "9895",
+        "books_issued": []
+    },
+    "U_4": {
+        "user_id": "U_4",
+        "name": "Joe Denly",
+        "pin": "3474",
+        "books_issued": [
+            "B_1"
+        ]
+    }
+}

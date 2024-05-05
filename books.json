@@ -1,0 +1,14 @@
+{
+    "B_1": {
+        "isbn": "B_1",
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert T Kayoski",
+        "copies": 3
+    },
+    "B_2": {
+        "isbn": "B_2",
+        "title": "Secret Seven",
+        "author": "Enid Blyton",
+        "copies": 3
+    }
+}
